@@ -19,7 +19,7 @@ This data was retrieved from [Kaggle](https://www.kaggle.com/competitions/house-
 
 <p align="center">
   <br>
-  <img src="/images/escriptive_stats.png" alt="all graphs" width=600>
+  <img src="/images/descriptive_stats.png" alt="descriptive stats" width=600>
 </p>
 
 ## Methods
@@ -64,7 +64,7 @@ Rejected the null that there is no significant difference in means between house
 
 <p align="center">
   <br>
-  <img src="/images/test-bedrooms.png" alt="all graphs" width=600>
+  <img src="/images/test-bedrooms.png" alt="bedrooms" width=600>
 </p>
 
 #### Car Garages
@@ -77,7 +77,7 @@ Rejected the null that there is no significant difference in means between house
 
 <p align="center">
   <br>
-  <img src="/images/test-garages.png" alt="all graphs" width=600>
+  <img src="/images/test-garages.png" alt="garages" width=600>
 </p>
 
 #### Fireplaces
@@ -90,7 +90,7 @@ Rejected the null that there is no significant difference in means between house
 
 <p align="center">
   <br>
-  <img src="/images/test-fireplaces.png" alt="all graphs" width=600>
+  <img src="/images/test-fireplaces.png" alt="fireplaces" width=600>
 </p>
 
 #### Overall Quality
@@ -103,7 +103,7 @@ Rejected the null that there is no significant difference in means between house
 
 <p align="center">
   <br>
-  <img src="/images/test-quality.png" alt="all graphs" width=600>
+  <img src="/images/test-quality.png" alt="quality" width=600>
 </p>
 
 #### Central Air
@@ -116,7 +116,7 @@ Rejected the null that there is no significant difference in means between house
 
 <p align="center">
   <br>
-  <img src="/images/test-centralair.png" alt="all graphs" width=600>
+  <img src="/images/test-centralair.png" alt="central air" width=600>
 </p>
 
 ## Top variables that drive home prices
